@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CRMTest Suite">
+  <test name="Automaton Practice Site TestCases">
+    <classes>
+      <class name="crm.qa.testcases.CheckoutPageTest"/>
+    </classes>
+  </test> 
+</suite> 

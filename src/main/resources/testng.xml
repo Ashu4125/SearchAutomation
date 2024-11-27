@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CRMTest Suite">
+    <listeners>
+           <listener 
+                class-name="ExtentReportListener.ExtentReportListner"/>
+  </listeners>
+
+
+  <test name="Automaton Practice Site TestCases">
+    <classes>
+      <class name="crm.qa.testcases.LoginpageTest"/>
+      <class name="crm.qa.testcases.HomePageTest"/>
+      <class name="crm.qa.testcases.ProductPageTest"/>
+      <class name="crm.qa.testcases.BasketPageTest"/>
+      <class name="crm.qa.testcases.CheckoutPageTest"/>
+    </classes>
+  </test> 
+</suite> 
