@@ -1,10 +1,5 @@
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\pages\OrderReceivedPage.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\ExtentReportListener\ExtentReportListner.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\util\TestUtil.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\pages\ProductPage.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\pages\LoginPage.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\util\WebEventListener.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\base\TestBase.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\pages\BasketPage.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\pages\CheckoutPage.java
-C:\Users\ankur\eclipse-workspace\CRMTest\src\main\java\crm\qa\pages\HomePage.java
+/home/yash/Downloads/Flight/src/main/java/Pages/HomePage.java
+/home/yash/Downloads/Flight/src/main/java/Base/TestBase.java
+/home/yash/Downloads/Flight/src/main/java/util/GenericFunctions.java
+/home/yash/Downloads/Flight/src/main/java/Pages/ResultsPage.java
+/home/yash/Downloads/Flight/src/main/java/util/TestUtil.java
